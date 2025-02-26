@@ -1,9 +1,13 @@
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=SEOUNHU's%20GITHUB&fontSize=60&animation=twinkling&fontAlign=62)
 
 
 ## SEONHU 👋
 
 🌱 Currently Learning
+<br>
+  <br>
+
  </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
@@ -30,11 +34,12 @@
     <div style="text-align: left;">  </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=SXXNHU&bg_color=180,000000,&title_color=ffffff&text_color=ffffff"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SXXNHU&layout=compact&bg_color=180,000000,&title_color=ffffff&text_color=ffffff"
-           /> </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> </div> 
     </div>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SXXNHU)](https://github.com/SXXNHU/github-readme-stats&&theme=transparent)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SXXNHU)](https://github.com/SXXNHU/github-readme-stats&&theme=transparent)
 
 [![https://solved.ac/profile/dofqls0127](http://mazassumnida.wtf/api/v2/generate_badge?boj=dofqls0127)](https://solved.ac/dofqls0127)
 
