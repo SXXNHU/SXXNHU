@@ -25,7 +25,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SXXNHU&theme=transparent)](https://github.com/SXXNHU/github-readme-stats)
 
-
+<br>
+<br>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
 
