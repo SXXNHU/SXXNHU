@@ -9,13 +9,12 @@
 <img src="https://img.shields.io/badge/JAVA-07C?style=flat-square&logo=&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>      
-
-
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<br>
 <img src="https://img.shields.io/badge/VisualStudioCode-019DF4?style=flat-square&logo=&logoColor=white"/>
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>      
-
+<img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
+<br>
 
 
 [![https://solved.ac/profile/dofqls0127](http://mazassumnida.wtf/api/v2/generate_badge?boj=dofqls0127)](https://solved.ac/dofqls0127)
