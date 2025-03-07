@@ -37,9 +37,9 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> </div> 
     </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SXXNHU&theme=transparent)](https://github.com/SXXNHU/github-readme-stats&&theme=transparent&count_private=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SXXNHU&theme=transparent&count_private=true)](https://github.com/SXXNHU/github-readme-stats&&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SXXNHU&theme=transparent)](https://github.com/SXXNHU/github-readme-stats&&theme=transparent&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SXXNHU&theme=transparent&count_private=true)](https://github.com/SXXNHU/github-readme-stats&&theme=transparent)
 
 [![https://solved.ac/profile/dofqls0127](http://mazassumnida.wtf/api/v2/generate_badge?boj=dofqls0127)](https://solved.ac/dofqls0127)
 
