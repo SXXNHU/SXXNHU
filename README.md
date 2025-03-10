@@ -1,18 +1,19 @@
-
+<!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=SEOUNHU's%20GITHUB&fontSize=60&animation=twinkling&fontAlign=62)
+-->
 
 
 ## Hello👋 Welcome to seonhu's Github.
 - 👨‍💻 Junior Software Engineer Interested in Backend Application Server.
 - 👨‍🎓 Attending Department of Software at the Artificial Intelligence University in KW Univ.
-
+<br>
 
 🌱 Currently Learning
-- OS
-- Software Engineering
+- Operating System
+- Computer Architecture
+- Web Programming
+- Unity
 <br>
-  <br>
-
  </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
