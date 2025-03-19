@@ -64,7 +64,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SXXNHU&theme=transparent&)](https://github.com/SXXNHU/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SXXNHU&theme=transparent)](https://github.com/SXXNHU/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SXXNHU&theme=transparent&layout=compact)](https://github.com/SXXNHU/github-readme-stats)
 
 [![https://solved.ac/profile/dofqls0127](http://mazassumnida.wtf/api/v2/generate_badge?boj=dofqls0127)](https://solved.ac/dofqls0127)
 
