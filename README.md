@@ -64,9 +64,15 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SXXNHU&theme=transparent&)](https://github.com/SXXNHU/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SXXNHU&theme=transparent&layout=compact)](https://github.com/SXXNHU/github-readme-stats)
+<div style="display: flex; flex-direction: row; align-items: center;">
+  <a href="https://github.com/SXXNHU/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SXXNHU&theme=transparent&layout=compact" alt="Top Languages"style= "width: 400px; height: 200px;">
+  </a>
+  <a href="https://solved.ac/dofqls0127">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dofqls0127" alt="Solved.ac Profile"style= "width: 400px; height: 200px;">
+  </a>
+</div>
 
-[![https://solved.ac/profile/dofqls0127](http://mazassumnida.wtf/api/v2/generate_badge?boj=dofqls0127)](https://solved.ac/dofqls0127)
 
 
 
