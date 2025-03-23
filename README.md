@@ -44,10 +44,10 @@
 <div style="text-align: left;">
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 
 🧑‍💻 Contact me </h2> 
-<div style="text-align: left;"> <a href=instaURL> 
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=instaURL"> </a>
-<a href=https://www.notion.so/49a957b9bc5844279c5a0f0f5d4e4fe7> 
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/49a957b9bc5844279c5a0f0f5d4e4fe7"> </a>
+<div style="text-align: left;"> <a href=instagram.com/ap_dui/> 
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=instagram.com/ap_dui/)"> </a>
+<a href=https://www.notion.so/149dc7f18f0a809b9473d522aca6432e?pvs=3&qid=)> 
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/149dc7f18f0a809b9473d522aca6432e?pvs=3&qid="> </a>
 <a href=mailto:dofqls0127@gmail.com> 
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dofqls0127@gmail.com"> </a>
 </div>  
