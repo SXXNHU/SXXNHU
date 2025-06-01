@@ -15,7 +15,7 @@
 | 2024 | <a href="https://broom.life">BROOM</a> |  광운대학교 예비군 종합 서비스  |  Project Manager |
 | 2025 | <a href="https://github.com/Application-Software-developer/Institute-Management">Institute Management System</a>  | 학원 운영 보조 서비스 |  Backend |
 | 2025 | <a href="https://github.com/SXXNHU/Pangjam">Pangjam</a>  |  광슐랭(Pangjam)  |  Backend |
-| 2025 | Fishing Gaurd  |  LLM 기반 보이스피싱 보호 서비스  |  Idea, Design |
+| 2025 | Fishing Gaurd  |  LLM 기반 보이스피싱 보호 서비스  |  Design |
 
 </br>
 
