@@ -36,10 +36,10 @@
 <div style="display: flex; flex-direction: row; align-items: center;">
 <a href="https://github.com/SXXNHU/github-readme-stats"> 
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=SXXNHU&theme=transparent" alt="GitHub Stats" style="width: 450px; height: 225px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=SXXNHU&theme=transparent" alt="GitHub Stats" style="width: 400px; height: 200px;">
 </a>
   <a href="https://solved.ac/dofqls0127">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dofqls0127" alt="Solved.ac Profile"style= "width: 420px; height: 210px;">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dofqls0127" alt="Solved.ac Profile"style= "width: 370px; height: 185px;">
   </a>
 </div>
 
