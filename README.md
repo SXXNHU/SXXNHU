@@ -17,60 +17,29 @@
 | 2025 | <a href="https://github.com/SXXNHU/Pangjam">Pangjam</a>  |  광슐랭(Pangjam)  |  Backend |
 | 2025 | Fishing Gaurd  |  LLM 기반 보이스피싱 보호 서비스  |  Idea, Design |
 
-<br/>
-  
-<div style="text-align: left;"> 
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
-<div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  
-</div> 
-    
-</div>
+</br>
+
 <div style="text-align: left;">
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> 
 <div style="margin: ; text-align: left;" "text-align: left;"> 
-        
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+</div>
 <br>
-
 <div style="display: flex; align-items: flex-start;">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
 </div>
-
-<div style="text-align: left;">
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> <br> 
   
-🧑‍💻 Contact me </h2> 
-<div style="text-align: left;"> <a href=instagram.com/ap_dui/> 
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=instagram.com/ap_dui/)"> </a>
-<a href=https://www.notion.so/149dc7f18f0a809b9473d522aca6432e?pvs=3&qid=)> 
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/149dc7f18f0a809b9473d522aca6432e?pvs=3&qid="> </a>
-<a href=mailto:dofqls0127@gmail.com> 
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dofqls0127@gmail.com"> </a>
-</div>  
-        
-<br> 
-
-<div style="text-align: left;">  
-</div> 
-</div>
-<div style="text-align: left;"> 
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 
-🏅 Stats </h2> <div style="text-align: left;"> 
-</div> 
-</div>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SXXNHU&theme=transparent&)](https://github.com/SXXNHU/github-readme-stats)
-
 <div style="display: flex; flex-direction: row; align-items: center;">
-  <a href="https://github.com/SXXNHU/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SXXNHU&theme=transparent&layout=compact" alt="Top Languages"style= "width: 400px; height: 200px;">
-  </a>
+<a href="https://github.com/SXXNHU/github-readme-stats"> 
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=SXXNHU&theme=transparent" alt="GitHub Stats" style="width: 450px; height: 225px;">
+</a>
   <a href="https://solved.ac/dofqls0127">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dofqls0127" alt="Solved.ac Profile"style= "width: 400px; height: 200px;">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dofqls0127" alt="Solved.ac Profile"style= "width: 420px; height: 210px;">
   </a>
 </div>
 
