@@ -6,7 +6,18 @@
 ## Hello👋 Welcome to seonhu's Github.
 - 👨‍💻 Junior Software Engineer Interested in Backend Application Server.
 - 👨‍🎓 Attending Department of Software at the Artificial Intelligence University in KW Univ.
-<br>
+
+<br/>
+
+## 💻 Projects
+| 연도 | 서비스명 | 간략 소개 | 참여 부분 | 
+|---|---|---|---|
+| 2024 | <a href="https://broom.life">BROOM</a> |  광운대학교 예비군 종합 서비스  |  Project Manager |
+| 2025 | <a href="https://github.com/Application-Software-developer/Institute-Management">Institute Management System</a>  | 학원 운영 보조 서비스 |  Backend |
+| 2025 | <a href="https://github.com/SXXNHU/Pangjam">Pangjam</a>  |  광슐랭(Pangjam)  |  Backend |
+| 2025 | Fishing Gaurd  |  LLM 기반 보이스피싱 보호 서비스  |  Idea, Design |
+
+<br/>
   
 <div style="text-align: left;"> 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
@@ -29,12 +40,9 @@
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
 </div>
 
-</div>
-
-</div>
-
 <div style="text-align: left;">
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> <br> 
+  
 🧑‍💻 Contact me </h2> 
 <div style="text-align: left;"> <a href=instagram.com/ap_dui/> 
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=instagram.com/ap_dui/)"> </a>
