@@ -10,12 +10,14 @@
 <br/>
 
 ## 💻 Projects
-| 연도 | 서비스명 | 간략 소개 | 참여 부분 | 
-|---|---|---|---|
-| 2024 | <a href="https://broom.life">BROOM</a> |  광운대학교 예비군 종합 서비스  |  Project Manager |
-| 2025 | <a href="https://github.com/Application-Software-developer/Institute-Management">Institute Management System</a>  | 학원 운영 보조 서비스 |  Backend |
-| 2025 | <a href="https://github.com/SXXNHU/Pangjam">Pangjam</a>  |  광슐랭(Pangjam)  |  Backend |
-| 2025 | Fishing Gaurd  |  LLM 기반 보이스피싱 보호 서비스  |  Design |
+
+| Year | Service Name | Description | Role | Award |
+|:----:|:-------------|-------------|:----:|:-----:|
+| 2024 | [BROOM](https://broom.life) | 광운대학교 예비군 종합 서비스 | Project Manager | KWthon Grand Prize |
+| 2025 | [Institute Management System](https://github.com/Application-Software-developer/Institute-Management) | 학원 운영 보조 서비스 | Backend | - |
+| 2025 | [Pangjam](https://github.com/SXXNHU/Pangjam) | 광슐랭(Pangjam) | Backend | - |
+| 2025 | Fishing Guard | LLM 기반 보이스피싱 보호 서비스 | Design | 멋사univ Ideathon 최우수상 |
+
 
 </br>
 
