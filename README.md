@@ -4,8 +4,8 @@
 
 
 ## Hello👋 Welcome to seonhu's Github.
-- 👨‍💻 Junior Software Engineer Interested in Backend Application Server.
-- 👨‍🎓 Attending Department of Software at the Artificial Intelligence University in KW Univ.
+-  Junior Software Engineer Interested in Backend Application Server.
+-  Attending Department of Software at the Artificial Intelligence University in KW Univ.
 
 <br/>
 
