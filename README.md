@@ -4,8 +4,8 @@
 
 
 ## Hello👋 Welcome to seonhu's Github.
--  growing to Backend Developer
--  Attending Department of Software at the Artificial Intelligence University in KW Univ.
+-  growing to Backend Developer (Web)
+-  Attending Department of Software at the Artificial Intelligence University in KW Univ.
 
 <br/>
 
