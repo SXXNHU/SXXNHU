@@ -3,8 +3,8 @@
 -->
 
 
-## Hello👋 Welcome to seonhu's Github.
--  growing to Backend Developer (Web)
+## 👋 Welcome to Ap_dui's Github.
+-  growing to Backend Developer
 -  Attending Department of Software at the Artificial Intelligence University in KW Univ.
 
 <br/>
