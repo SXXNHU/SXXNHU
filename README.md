@@ -4,7 +4,7 @@
 
 
 ## 👋 Welcome to Ap_dui's Github.
--  growing to Backend Developer
+-  Backend Developer
 -  Attending Department of Software at the Artificial Intelligence University in KW Univ.
 
 <br/>
