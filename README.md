@@ -14,7 +14,6 @@
 | Year | Service Name | Description | Role | Award |
 |:----:|:-------------|-------------|:----:|:-----:|
 | 2024 | [BROOM](https://broom.life) | 광운대학교 예비군 종합 서비스 | Project Manager | KWthon 대상 |
-| 2025 | [IMS](https://github.com/Application-Software-developer/Institute-Management) | 학원 운영 보조 서비스 | Backend | - |
 | 2025 | [Pangjam](https://github.com/SXXNHU/Pangjam) | 광슐랭(Pangjam) | Backend | - |
 | 2025 | Fishing Guard | LLM 기반 보이스피싱 보호 서비스 | Design | 멋사univ. Ideathon 최우수상 |
 | 2025 | [Feed Up](https://feedup.cloud) | AI를 활용한 지역 상생형 SNS 프로모션 플랫폼 | Backend | - |
