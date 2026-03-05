@@ -1,12 +1,15 @@
-<!--
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=SEOUNHU's%20GITHUB&fontSize=60&animation=twinkling&fontAlign=62)
--->
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=135&section=header&text=Apdui.%20GITHUB&fontSize=30&animation=twinkling&fontAlign=84&fontAlignY=30)
 
 
-## 👋 Welcome to Ap_dui's Github.
--  Backend Developer
--  Attending Department of Software at the Artificial Intelligence University in KW Univ.
 
+## Profile
+-  Kwangwoon Univ. (Software Engineering | Artificial Intelligence)
+-  LIKELION KWU 14th (President)
+-  LIKELION KWU 13th (Member)
+-  IM(Imagineer of Movement) 24th (E.C. Leader)
+-  IM(Imagineer of Movement) 23th (External Cooperation) 
+  
 <br/>
 
 ## 💻 Projects
@@ -24,27 +27,29 @@
 </br>
 
 <div style="text-align: left;">
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> 
-<div style="margin: ; text-align: left;" "text-align: left;"> 
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-</div>
-<br>
-<div style="display: flex; align-items: flex-start;">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> 
+  <div style="margin: ; text-align: left;" "text-align: left;"> 
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+    <br>
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  </div>
 </div>
   
 <div style="display: flex; flex-direction: row; align-items: center;">
-<a href="https://github.com/SXXNHU/github-readme-stats"> 
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=SXXNHU&theme=transparent" alt="GitHub Stats" style="width: 400px; height: 200px;">
-</a>
   <a href="https://solved.ac/dofqls0127">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dofqls0127" alt="Solved.ac Profile"style= "width: 370px; height: 185px;">
   </a>
+  <a href="https://github.com/SXXNHU/github-readme-stats"> 
+    <br>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SXXNHU&theme=transparent" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SXXNHU&theme=transparent" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SXXNHU&theme=transparent" />
+  </a>
+  
 </div>
 
 
