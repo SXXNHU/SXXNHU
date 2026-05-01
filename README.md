@@ -22,6 +22,8 @@
 | 2025 | [Feed Up](https://feedup.cloud) | AI를 활용한 지역 상생형 SNS 프로모션 플랫폼 | Backend | - |
 | 2025 | [RE:BORN](https://github.com/ganzithon-team2/Team2_BE) | [upstage] 유기동물 매칭 플랫폼  | Backend | MACHTHON 최우수상 |
 | 2026 | [LIKELION-KWU](https://www.likelion-kwu.com/) |  멋쟁이사자처럼 광운대학교 홈페이지  | Frontend | - |
+| 2026 | [VIBE CODING BIBLE](https://vibecodingv2.vercel.app/) |  바이브코딩 안내서  | Frontend | - |
+
 
 
 </br>
