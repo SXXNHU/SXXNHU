@@ -5,6 +5,7 @@
 
 ## Profile
 -  Kwangwoon Univ. (Software Engineering | Artificial Intelligence)
+-  Shinhan SW Academy 7th
 -  LIKELION KWU 14th (President)
 -  LIKELION KWU 13th (Member)
 -  IM(Imagineer of Movement) 24th (E.C. Leader)
