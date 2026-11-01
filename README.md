@@ -33,7 +33,7 @@
 
 | Year | Service Name | Description | Role | Award |
 |:----:|:-------------|-------------|:----:|:-----:|
-| 2024 | [BROOM] | 광운대학교 예비군 종합 서비스 | Project Manager | 🏅 KWthon 대상 |
+| 2024 | BROOM | 광운대학교 예비군 종합 서비스 | Project Manager | 🏅 KWthon 대상 |
 | 2025 | Fishing Guard | LLM 기반 보이스피싱 보호 서비스 | Project Manager | 🏅 LikeLion Ideathon 최우수상 |
 | 2025 | [Feed Up](https://github.com/SXXNHU/Feedup_BE) | AI를 활용한 지역 상생형 SNS 프로모션 플랫폼 | Backend | - |
 | 2025 | [RE:BORN](https://github.com/ganzithon-team2/Team2_BE) | [upstage] 유기동물 매칭 플랫폼  | Backend | 🏅 MACHTHON 최우수상 |
