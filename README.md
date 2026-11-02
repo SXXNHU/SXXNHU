@@ -24,8 +24,8 @@
 -  Shinhan SW Academy 7th
 -  LIKELION KWU 14th (President)
 -  LIKELION KWU 13th (Member)
--  IM(Imagineer of Movement) 24th (E.C. Leader)
--  IM(Imagineer of Movement) 23th (External Cooperation) 
+-  IM 24th (External Cooperation Leader)
+-  IM 23th (External Cooperation) 
   
 <br/>
 
